@@ -115,8 +115,8 @@ export const events = [
     id: 14,
     toShow: '/assets/Poster6.png',
     mainPoster: '/assets/Poster6.png',
-    topPoster: '/assets/tech trivia1.jpg',
-    bottomPoster: '/assets/techtrivia2.jpg',
+    topPoster: '/assets/techtrivia1.jpg',
+    bottomPoster: '/assets/tech trivia2.jpg',
     title: 'Tech Trivia',
     about:
       'Introducing Tech Trivia-where you can test your skills in a high-octane quiz competition that separates tech-savvy from the rest. Only the brightest minds will advance to the next round, where the real adventure begins. There, by forming groups, they would be engaged in debate and have to tackle thought provoking argument',
@@ -163,8 +163,8 @@ export const events = [
     id: 13,
     toShow: '/assets/Poster5.jpg',
     mainPoster: '/assets/Poster5.jpg',
-    topPoster: '/assets/cloakcoding1.jpg',
-    bottomPoster: '/assets/blindcoding2.jpg',
+    topPoster: '/assets/coding1.jpg',
+    bottomPoster: '/assets/coding2.jpg',
     title: 'Cloak Coding',
     about:
       'Do you aspire to navigate the depths of code? So, be ready because IETE-SF has come up with a coding event, that is designed to push the boundaries of participants coding capabilities. Unlike traditional coding competitions, Cloak coding presents a unique challenge: coding without visual feedback',
