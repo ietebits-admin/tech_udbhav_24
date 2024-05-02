@@ -28,7 +28,7 @@ const TimeLine = () => {
               Day 1 <br /> Morning
             </h3>
             <time className="btext-base font-normal text-gray-400">
-              Robo Soccer Round 1 10:00AM-1:000PM
+              Robo Soccer Round 1 8:00AM-11:000AM
               <br />
               Venue: Outside LH
             </time>
@@ -39,7 +39,7 @@ const TimeLine = () => {
             </p>
             <h3 className="text-lg font-semibold text-white">Evening</h3>
             <time className="btext-base font-normal text-gray-400">
-              Cyber Battleground Round 1 3:30PM-5:00PM
+              Cyber Battleground Round 1 4:30PM-6:30PM
               <br />
               Venue:LH 003
             </time>
