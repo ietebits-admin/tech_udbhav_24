@@ -30,7 +30,7 @@ const TimeLine = () => {
             <time className="btext-base font-normal text-gray-400">
               Robo Soccer Round 1 8:00AM-11:000AM
               <br />
-              Venue: Outside LH
+              Venue: LH Complex
             </time>
             <p className="text-base font-normal text-gray-400">
               Tech Trivia Prelims 9AM-11:30AM
@@ -46,7 +46,7 @@ const TimeLine = () => {
             <p className="text-base font-normal text-gray-400">
               Mine Field Rescue
               <br />
-              Dummy
+              Venue: LH Complex
             </p>
           </div>
         </li>
@@ -88,7 +88,7 @@ const TimeLine = () => {
             <p className="text-base font-normal text-gray-400">
               Mine Field Rescue
               <br />
-              Dummy
+              Venue: LH Complex
             </p>
             <p className="text-base font-normal text-gray-400">
               WorkShop 3:00PM-8:00PM
@@ -119,7 +119,7 @@ const TimeLine = () => {
             <time className="btext-base font-normal text-gray-400">
               Robo Soccer 8:00AM-11:00AM
               <br />
-              Venue: Outside LH
+              Venue: LH Complex
             </time>
             <p className="text-base font-normal text-gray-400">
               Cloak Coding 9:00AM-11:00AM
